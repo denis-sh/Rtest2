@@ -1,1 +1,2 @@
 Initial line in file1
+Second commit initial line in file1
