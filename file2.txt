@@ -1,3 +1,7 @@
 Initial line 1/2 in file2
 Initial line 2/2 in file2
 Second commit initial line in file2
+File 2 line 1/4 in experimental branch third commit
+File 2 line 2/4 in experimental branch third commit
+File 2 line 3/4 in experimental branch third commit
+File 2 line 4/4 in experimental branch third commit
